@@ -60,6 +60,7 @@ This example loads ```mytemplate.hbs``` from the root of the classpath:
 mytemplate.hbs:
 ```
 Hello {{this}}!
+Hello {{1}}!
 ```
 
 ```java
